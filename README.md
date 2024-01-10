@@ -27,7 +27,7 @@
 
   <br/>
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=kmlim0893&theme=warm)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=kmlim0893)](https://solved.ac/kmlim0893)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KangminLim&show_icons=true&theme=radical)
 
      
