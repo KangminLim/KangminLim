@@ -4,9 +4,9 @@
 
 #### :wave: Welcome my github profile!
 
-  <br/>
-  <br/>
-
+- (전) T3Q
+- (전) 고려대학교 지능정보 SW 아카데미 2기
+  
 #### :clipboard: My Skills!
 
   <br/>
@@ -22,6 +22,12 @@
 </p>
   <br/>
   <br/>
+  
+#### : 🏆Award
+- 2023 한국경제신문 해커톤 아이디어 경진대회 대상
+- 2023 고려대학교 지능정보SW아카데미 학장상
+- 교내 캡스톤 경진대회 동상
+- Lee, J.; Lim, K.; Cho, J. Improved Monitoring of Wildlife Invasion through Data Augmentation by Extract–Append of a Segmented Entity. Sensors 2022, 22, 7383. https://doi.org/10.3390/s22197383
 
 #### ✏️: Study log
 
