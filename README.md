@@ -34,7 +34,7 @@
 - 2023 고려대학교 지능정보SW아카데미 학장상🏅
 - 2021 교내 캡스톤 경진대회 동상🥉
 - Lee, J.; Lim, K.; Cho, J. Improved Monitoring of Wildlife Invasion through Data Augmentation by Extract–Append of a Segmented Entity. Sensors 2022, 22, 7383. https://doi.org/10.3390/s22197383
-- Wildlife Invasion Control System for Crops Protection
+- Wildlife Invasion Control System for Crops Protection (2023 bachelor graduation thesis)
 #### ✏️ Study log
 
   <br/>
