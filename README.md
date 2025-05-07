@@ -3,11 +3,11 @@
   ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=KangMinLim&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   <br/>
 #### :wave: Welcome my github profile!
-
-- (현) kakao Tech bootcamp 2기 2025.01 ~ 
-- (전) T3Q 2023.08 ~ 2023.12
-- (전) 고려대학교 지능정보 SW 아카데미 2기 2023.03 ~ 2023.06
-- (전) 교내 학부연구생(ASPL) 2021.03 ~ 2022.12 
+- (現) Amkor Technology 2025.03 ~  
+- (前) kakao Tech bootcamp 2기 2025.01 ~ 2025.02
+- (前) T3Q 2023.08 ~ 2023.12
+- (前) 고려대학교 지능정보 SW 아카데미 2기 2023.03 ~ 2023.06
+- (前) 교내 학부연구생(ASPL) 2021.03 ~ 2022.12 
 
   <br/>
 
