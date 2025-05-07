@@ -3,11 +3,11 @@
   ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=KangMinLim&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   <br/>
 #### :wave: Welcome my github profile!
-- (現) Amkor Technology 2025.03 ~  
-- (前) kakao Tech bootcamp 2기 2025.01 ~ 2025.02
-- (前) T3Q 2023.08 ~ 2023.12
-- (前) 고려대학교 지능정보 SW 아카데미 2기 2023.03 ~ 2023.06
-- (前) 교내 학부연구생(ASPL) 2021.03 ~ 2022.12 
+- Amkor Technology Korea, Test It Enginner 2025.03 ~ Present
+- kakao Tech bootcamp 2nd 2025.01 ~ 2025.02
+- T3Q Inc., AI Engineer(intern) 2023.08 ~ 2023.12
+- Korea Univ SW Academy 2nd 2023.03 ~ 2023.06
+- Adaptive Signal Processing Lab, Undergraduate researcher 2021.03 ~ 2022.12 
 
   <br/>
 
@@ -34,8 +34,12 @@
 - 2023 한국경제신문 해커톤 아이디어 경진대회 대상🥇
 - 2023 고려대학교 지능정보SW아카데미 학장상🏅
 - 2021 교내 캡스톤 경진대회 동상🥉
+#### 📖 Papers
+##### SCI(E)
 - Lee, J.; Lim, K.; Cho, J. Improved Monitoring of Wildlife Invasion through Data Augmentation by Extract–Append of a Segmented Entity. Sensors 2022, 22, 7383. https://doi.org/10.3390/s22197383
-- Wildlife Invasion Control System for Crops Protection (2022 bachelor graduation thesis)
+
+##### Bachelor graduation thesis
+- Wildlife Invasion Control System for Crops Protection 2022
 #### ✏️ Study log
 
   <br/>
